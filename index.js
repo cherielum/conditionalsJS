@@ -221,3 +221,4 @@ switch (education) {
     salary= "84,396";
 }
 console.log('In 2015, a person with ' +education +  " earned an average of $" +salary+'/year.');
+
